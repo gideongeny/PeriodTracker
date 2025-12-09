@@ -1,0 +1,20 @@
+{
+  "short_name": "PeriodTracker",
+  "name": "PeriodTracker - The Period Tracker App",
+  "icons": [
+    {
+      "src": "assets/icon/192-pwa.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icon/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff69b4",
+  "background_color": "#fff0f8"
+}
