@@ -1,0 +1,5 @@
+{
+	"appId": "com.periodtracker.app",
+	"appName": "PeriodTracker",
+	"webDir": "dist"
+}
